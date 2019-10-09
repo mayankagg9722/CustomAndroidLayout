@@ -1,14 +1,11 @@
 package com.example.mayankaggarwal.appathon;
 
 import android.graphics.drawable.Drawable;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.WindowManager;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
 
 public class SuccessActivity extends AppCompatActivity {
 
